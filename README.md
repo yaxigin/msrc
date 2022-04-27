@@ -14,23 +14,4 @@
         请输入域名（可查询备案信息）
   ```
                       
-![alt 01](https://github.com/yaxigin/msrc/blob/master/01.jpg)
 
-* src 搜索模糊企业信息：
-![alt 02](https://github.com/yaxigin/msrc/blob/master/02.jpg)
-
-* src 搜索企业信息：
-
-![alt 03](https://github.com/yaxigin/msrc/blob/master/03.jpg)
-
-
-
-* 天眼查查询域名：
-
-![alt 04](https://github.com/yaxigin/msrc/blob/master/04.jpg)
-
-
-* 查询域名信息：
-
-![alt 05](https://github.com/yaxigin/msrc/blob/master/05.jpg)
-        
