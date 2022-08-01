@@ -18,3 +18,7 @@
   ```
                       
 
+<img src="https://github.com/yaxigin/msrc/blob/master/02.jpg" width="50%">
+<img src="https://github.com/yaxigin/msrc/blob/master/03.jpg" width="50%">
+<img src="https://github.com/yaxigin/msrc/blob/master/04.jpg" width="50%">
+<img src="https://github.com/yaxigin/msrc/blob/master/05.jpg" width="50%">
